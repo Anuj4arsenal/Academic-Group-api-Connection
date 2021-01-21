@@ -1,0 +1,1657 @@
+/*css by anuj*/
+#add-to-cart-product-detail-page .quantity{
+    display: inline;
+}
+
+a.btn.btn-blue {
+    background: #0070b2;
+}
+
+div#primary {
+    float: none !important;
+    width: 70%;
+    padding-right: 0px;
+    margin: 0px auto;
+}
+
+.pw-item .pwi-detail a{
+    text-transform: none!important;
+}
+
+.cart-collaterals .cart_totals{
+    width:100% !important;
+}
+
+.woocommerce form.login{
+
+}
+
+#billing_address_2 {
+    display: none;
+}
+
+.woocommerce-checkout-review-order .woocommerce-checkout-review-order-table{
+    margin-top:0px !important;
+}
+
+/*css end by anuj*/
+.email-success-msg{
+    color: #3c763d;
+    margin-top: 5px;
+    font-size: 12px;
+    font-weight :500;
+}
+
+
+.alert.alert-success.banner-text.notifySection {
+    background-color: #4caf50;
+}
+
+.alert.alert-success.banner-text.notifySection p{
+    color: #3c763d
+}
+
+.pull-right.text-success {
+    margin-top: -15px;
+}
+
+.alert {
+    padding: 20px;
+    background-color: #4CAF50;
+    color: white;
+}
+
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.closebtn:hover {
+    color: black;
+}
+
+.tooltip .tooltiptext {
+    left: calc(100% + 5px);
+}
+
+#billing_address_2 {
+    display: none;
+}
+
+.woocommerce-password-strength.short {
+    display: none !important;
+}
+.woocommerce-password-strength.bad {
+    display: none !important;
+}
+
+.woocommerce-password-strength.strong {
+    display: none !important;
+}
+
+.woocommerce-password-strength.good {
+    display: none !important;
+}
+
+.woocommerce-checkout.woocommerce-order-pay .wc-credit-card-form-card-number.visa {
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.woocommerce-checkout.woocommerce-order-pay .wc-credit-card-form-card-number.mastercard{
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.submit.buy.button {
+    float: right;
+}
+
+.button.product_type_simple.add_to_cart_button {
+    display: inline-block;
+}
+@media (max-width: 767px) {
+    .tooltip .tooltiptext {
+        left: 0;
+        top: 27px;
+    }
+
+    .tooltiptext::after {
+        content: "";
+        position: absolute;
+        top: -5px;
+        right: 50%;
+        bottom: 100%;
+        margin-top: -5px;
+        border-width: 5px;
+        border-style: solid;
+        border-color: transparent transparent #555 transparent;
+    }
+}
+
+div.checkboxes label.subject:hover, div.checkboxes label.info:hover {
+    background-color: #00b8f1;
+    color: #ffffff;
+    text-shadow: none;
+    border: none;
+}
+
+.wrapper{
+    width:70%;
+}
+@media(max-width:992px){
+    .wrapper{
+        width:100%;
+    }
+}
+.panel-heading {
+    padding: 0;
+    border:0;
+}
+.panel-title>a, .panel-title>a:active{
+    display:block;
+    padding:15px;
+    color:#555;
+    font-size:16px;
+    font-weight:bold;
+    text-transform:uppercase;
+    letter-spacing:1px;
+    word-spacing:3px;
+    text-decoration:none;
+}
+.panel-heading  a:before {
+    font-family: 'Glyphicons Halflings';
+    content: "\e114";
+    float: right;
+    transition: all 0.5s;
+}
+.panel-heading.active a:before {
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+/** From /extensions/adtf/css/purchase_books.css */
+a, a:focus, a:hover {
+    outline: 0;
+    transition: all .3s;
+    text-decoration: none
+}
+
+.atvImg, .atvImg-layers {
+    transform-style: preserve-3d
+}
+
+.atvImg, div.book_div div.book_description:hover, div.book_div div.book_heading:hover, div.book_div div.book_img img:hover {
+    cursor: pointer
+}
+
+body {
+    font-size: 13px
+}
+
+h2 {
+    font-size: 1.5em
+}
+
+div.book_div div.book_description, div.book_div div.book_heading {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    overflow: hidden
+}
+
+.value-control .glyphicon {
+    line-height: inherit !important
+}
+
+.alert-danger * {
+    color: #a94442 !important
+}
+
+div.book_div {
+    margin: 0 1.8% 2.992em 0
+}
+
+div.book_div div.book_img {
+    width: 100%;
+    text-align: center;
+    overflow: hidden
+}
+
+div.book_div div.book_img img {
+    height: 100%
+}
+
+div.book_div div.book_heading {
+    font-weight: 700;
+    color: #01bafd;
+    display: block;
+    height: 23px
+}
+
+div.book_div div.book_description {
+    text-align: center;
+    text-justify: inter-word;
+    padding: 10px 0;
+    text-overflow: elipsis;
+    word-break: break-all;
+    line-height: normal !important
+}
+
+div.book_div > div > div {
+    text-align: center
+}
+
+.errorField input, .errorField select, .errorField textarea {
+    border: 1px solid red
+}
+
+div.pagetitle_inner h3 {
+    font-size: 17px
+}
+
+.padding-0 {
+    padding: 0
+}
+
+table.multiAssocCheckboxes {
+    width: 100%
+}
+
+div.checkboxes div.venueHeading {
+    background-color: #00b8f1;
+    border-radius: 0;
+    padding: 8px 14px;
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+    cursor: pointer
+}
+
+.venueTable_tbl {
+    width: 100%;
+    border: 1px solid #00b8f1;
+    border-collapse: collapse
+}
+
+.venueTable_tbl td, .venueTable_tbl th {
+    border-right: 1px dotted #00b8f1;
+    padding: 5px
+}
+
+.venueTable_tbl td {
+    text-align: left;
+    vertical-align: top
+}
+
+.venueTable_tbl .title-row {
+    font-weight: bold;
+    color: #00b8f1;
+    border-bottom: 1px solid #00b8f1
+}
+
+.venueTable_tbl td.timeSlot {
+    text-align: left;
+    font-weight: bold;
+    vertical-align: top
+}
+
+.cart_tbl {
+    width: 100%;
+    border: 1px solid #00b8f1;
+    border-collapse: collapse
+}
+
+table.cart_tbl thead tr th {
+    background: #00b8f1 !important;
+    border: 1px solid #00b8f1
+}
+
+table.cart_tbl tr td {
+    background: #fff !important;
+    border: 1px solid #00b8f1
+}
+
+div.checkboxes div.weekSubTitle {
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+    margin: 10px 0;
+    color: #00b8f1
+}
+
+div.checkboxes label.subject, div.checkboxes label.info {
+    padding: 3px 5px;
+    border: 0;
+    width: 100%
+}
+
+div.checkboxes label.subject.active {
+    color: #fff;
+    background-color: #00b8f1;
+    border-color: #00b8f1
+}
+
+.glyphicon-lg {
+    font-size: 1.33333333em;
+    line-height: .75em;
+    vertical-align: -15%
+}
+
+label.optionText {
+    vertical-align: middle
+}
+
+label.subject.disabled {
+    color: #AAA !important;
+    border: none !important
+}
+
+label.subject.disabled:hover {
+    background-color: #FFF !important;
+    color: #AAA !important;
+    border: none !important
+}
+
+.title-box {
+    background: #00b8f1;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    margin-top: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 4px 10px
+}
+
+.styled_enum_checkboxes_col {
+    float: left;
+    width: 33%
+}
+
+.styled_enum_checkboxes_col label, .multiAssocCheckboxes label, .select-btn {
+    border: 2px solid #00b8f1;
+    border-radius: 10px;
+    font-size: 16px;
+    color: #00b8f1;
+    text-align: center;
+    margin-top: 20px;
+    padding: 8px 10px;
+    display: block;
+    width: 80%;
+    cursor: pointer;
+    line-height: 20px;
+    font-weight: normal;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden
+}
+
+.styled_enum_checkboxes_col input[type="checkbox"], .styled_enum_checkboxes_col input[type="radio"], .multiAssocCheckboxes input[type="checkbox"] {
+    display: none !important;
+    visibility: hidden !important
+}
+
+.styled_enum_checkboxes_col label.active, .multiAssocCheckboxes input[type="checkbox"]:checked + label, .styled_enum_checkboxes_col input[type="radio"]:checked + label, .select-btn.active {
+    background: #00b8f1;
+    color: white
+}
+
+.btn-custom {
+    border-radius: 10px;
+    background-color: #00b8f1 !important;
+    color: white;
+    font-size: 16px;
+    padding: 8px 15px;
+    border: 2px solid #00b8f1 !important
+}
+
+.venueHeading:before {
+    position: absolute;
+    right: 20px;
+    font-family: 'Glyphicons Halflings';
+    content: "\e113";
+    line-height: 25px
+}
+
+.venueHeading.active:before {
+    content: "\e114"
+}
+
+tr.sessonGroup {
+    border-bottom: 1px solid #00b8f1
+}
+
+.tooltip {
+    position: relative
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    min-width: 120px;
+    width: auto;
+    max-width: 200px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    position: absolute;
+    z-index: 1
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible
+}
+
+.tooltip .tooltiptext {
+    top: 0;
+    left: calc(100% + 5px)
+}
+
+.tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 15px;
+    right: 100%;
+    margin-top: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent #555 transparent transparent
+}
+
+.bookHead {
+    padding: 10px 20px;
+    background: #00b8f1;
+    color: white;
+    font-size: 29px;
+    font-weight: bold;
+    line-height: 52px
+}
+
+.bookPrice {
+    min-width: 52px;
+    line-height: 30px;
+    font-weight: bold;
+    padding: 0;
+    text-align: center
+}
+
+.mainHeading {
+    font-weight: bold;
+    color: #00b8f1;
+    font-size: 50px;
+    border: 4px solid;
+    border-radius: 15px;
+    padding: 10px 25px;
+    display: inline-block
+}
+
+/*css by bipin*/
+.msg-error {
+    background-color: #e15858;
+    color: #fff;
+    padding: 20px;
+}
+/*css end by bipin*/
+
+@media (min-width: 992px) {
+    .addCartQty {
+        max-width: 50px;
+        float: right !important
+    }
+
+    .inline-flex-lg {
+        display: inline-flex
+    }
+}
+
+@media (max-width: 991px) {
+    .addCartQty {
+        max-width: inherit;
+        float: none
+    }
+
+    body {
+        font-size: 16px
+    }
+
+    .btn-xs-block {
+        display: block;
+        width: 100%;
+        margin: 15px 0;
+        font-size: 20px
+    }
+
+    .btn-xs-block .glyphicon {
+        font-size: 20px
+    }
+
+    .responsive_table {
+        width: 100%;
+        overflow-y: scroll
+    }
+
+    .responsive_table table {
+        width: auto
+    }
+}
+
+.cmsText, .inline {
+    display: inline-block
+}
+
+@media (max-width: 767px) {
+    body {
+        font-size: 16px
+    }
+
+    h2 {
+        font-size: 24px;
+        margin: 15px 0
+    }
+
+    h4 {
+        font-size: 22px;
+        margin: 10px 0
+    }
+
+    h5 {
+        font-size: 20px
+    }
+
+    .btn {
+        font-size: 18px
+    }
+
+    .btn-search {
+        font-size: 26px
+    }
+
+    div.pagetitle_inner h3 {
+        font-size: 28px !important
+    }
+
+    .form-control {
+        font-size: 20px;
+        height: 40px
+    }
+
+    div.layout_label {
+        font-size: 20px
+    }
+
+    div.book_div div.book_description, div.book_div div.book_heading {
+        font-size: 16px;
+        margin-top: 10px
+    }
+
+    .bookinfo_title {
+        font-size: 18px
+    }
+
+    .banner-text {
+        text-align: center
+    }
+
+    .banner-text #cartLink {
+        display: block;
+        float: none !important
+    }
+
+    .text-right {
+        text-align: center;
+        margin-top: 20px
+    }
+
+    .responsive_table {
+        width: 100%;
+        overflow-y: scroll
+    }
+
+    .responsive_table table {
+        width: auto
+    }
+
+    table {
+        font-size: 14px
+    }
+
+    .back-btn {
+        display: block;
+        margin: 10px 0;
+        text-align: center
+    }
+
+    h2.cart-total {
+        font-size: 20px;
+        margin: 5px 0
+    }
+
+    .styled_enum_checkboxes_col {
+        float: left;
+        width: 100%
+    }
+
+    .venueTable_tbl td, .venueTable_tbl th {
+        font-size: 14px
+    }
+
+    .alert {
+        margin: 25px 0
+    }
+
+    .multiAssocCheckboxes label, .styled_enum_checkboxes_col label, .select-btn {
+        width: 100%
+    }
+
+    .bookHead {
+        font-size: 18px;
+        padding: 10px;
+        display: block;
+        line-height: 32px;
+        text-align: center
+    }
+
+    .bookinfo_description {
+        font-size: 16px;
+        padding: 10px
+    }
+
+    .cart_tbl .qtycol .form-control {
+        font-size: 14px;
+        height: 40px;
+        width: 40px;
+        padding: 5px
+    }
+
+    .mainHeading {
+        font-size: 26px
+    }
+}
+
+;
+@media (max-width: 600px) {
+    div.book_img img, img.book_img {
+        width: 100%;
+        height: auto
+    }
+
+    div.book_div div.book_img {
+        height: auto
+    }
+
+    .ui-dialog.ui-widget.ui-widget-content.ui-corner-all.ui-front.ui-draggable.ui-resizable {
+        width: 100% !important;
+        height: 100% !important;
+        top: 0;
+        left: 0
+    }
+
+    .ui-dialog.ui-widget.ui-widget-content.ui-corner-all.ui-front.ui-draggable.ui-resizable .ui-dialog-content.ui-widget-content {
+        height: calc(100% - 37px) !important
+    }
+
+    #ormTable-viewCartItems .input-group .input-group-btn {
+        display: block
+    }
+
+    #ormTable-viewCartItems .input-group .input-group-btn .btn {
+        border-radius: 0
+    }
+
+    #ormTable-viewCartItems .input-group .form-control {
+        float: none;
+        width: 100%
+    }
+
+    #ormTable-viewCartItems td img {
+        max-width: 100px
+    }
+}
+
+.body_wrapper {
+    margin-top: 0 !important;
+    padding-top: 0 !important
+}
+
+div.book_div {
+    margin-bottom: 30px;
+    text-align: center
+}
+
+.margin-top-10 {
+    margin-top: 10px !important
+}
+
+.ui-dialog-content.ui-widget-content {
+    overflow: hidden
+}
+
+.padding-0 {
+    padding: 0 !important
+}
+
+.ui-dialog.ui-widget.ui-widget-content.ui-corner-all.ui-front.ui-draggable.ui-resizable {
+    max-width: 100% !important;
+    max-height: 100% !important;
+    position: fixed !important
+}
+
+input#cartItemQty {
+    font-size: large;
+    font-weight: 700
+}
+
+span.value-control {
+    padding: 5px 10px !important
+}
+
+table.courseTbl {
+    width: 100%;
+    box-shadow: 0 0 5px #CCC
+}
+
+table.courseTbl td, table.courseTbl th {
+    text-align: left;
+    padding: 5px 15px
+}
+
+table.courseTbl tr:nth-child(even) {
+    background-color: #fff
+}
+
+table.courseTbl tr:nth-child(odd) {
+    background-color: #f5f5f5
+}
+
+table.courseTbl th {
+    color: #FFF;
+    background-color: #00b8f1
+}
+
+div.layout_label, .optionText {
+    line-height: 32px
+}
+
+table.courseTbl td a.popup {
+    vertical-align: text-bottom;
+    margin-left: 15px
+}
+
+input.ui-autocomplete-input {
+    width: 100%;
+    padding: 4px
+}
+
+.width100px {
+    width: 100px !important
+}
+
+.cmsText {
+    background-color: #add8e6;
+    padding: 8px;
+    border-radius: 4px
+}
+
+div.container .no-padding {
+    padding-left: 0 !important
+}
+
+.layout_field {
+    padding-right: 12px
+}
+
+.redask {
+    position: absolute;
+    right: 0;
+    top: 0
+}
+
+.atvImg-container, .atvImg-layers {
+    position: relative;
+    width: 100%;
+    height: 100%
+}
+
+.nomargin p {
+    margin: 0
+}
+
+a {
+    color: #01bafd
+}
+
+a:focus, a:hover {
+    color: #0182b1
+}
+
+.atvImg img {
+    box-shadow: 0 2px 8px rgba(14, 21, 47, .25);
+    max-width: 100%
+}
+
+.atvImg-container {
+    transition: all .2s ease-out
+}
+
+.atvImg-container.over .atvImg-shadow {
+    box-shadow: 0 45px 100px rgba(14, 21, 47, .4), 0 16px 40px rgba(14, 21, 47, .4)
+}
+
+.atvImg-layers {
+    overflow: hidden
+}
+
+.atvImg-rendered-layer {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: transparent;
+    background-size: cover;
+    transition: all .1s ease-out
+}
+
+.atvImg-shadow {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+    transition: all .2s ease-out;
+    box-shadow: 0 8px 30px rgba(14, 21, 47, .6)
+}
+
+.atvImg-shine {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(135deg, rgba(255, 255, 255, .25) 0, rgba(255, 255, 255, 0) 60%)
+}
+
+.atvImg {
+    -webkit-tap-highlight-color: rgba(#000, 0);
+    height: 425px;
+    width: 300px;
+    margin: 0 auto
+}
+
+.atvImg img {
+    height: 425px;
+    width: 300px
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1224px) {
+    .book_description {
+        height: 45px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        font-size: 16px
+    }
+
+    .bookinfo_description {
+        font-size: 16px
+    }
+
+    .book_img {
+        width: 90%
+    }
+
+    #ormTable-viewCartItems td img {
+        max-width: 100px
+    }
+
+    #ormTable-viewCartItems td img {
+        max-width: 100px
+    }
+
+    #ormTable-viewCartItems .input-group .input-group-btn .btn {
+        font-size: 20px
+    }
+
+    #ormTable-viewCartItems .input-group .form-control {
+        height: 43px
+    }
+}
+
+@media only screen and (min-width: 600px) and (max-width: 700px) {
+    #ormTable-viewCartItems .input-group .input-group-btn .btn {
+        font-size: 12px;
+        height: 40px;
+        padding-top: 10px !important
+    }
+
+    #ormTable-viewCartItems .input-group .form-control {
+        height: 40px;
+        font-size: 18px
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    span.value-control {
+        padding: 5px 5px !important
+    }
+
+    table#ormTable-viewCartItems colgroup col:nth-child(5) {
+        width: 35%
+    }
+
+    table#ormTable-viewCartItems thead th:nth-child(1), table#ormTable-viewCartItems tbody td:nth-child(1), table#ormTable-viewCartItems tfoot td:nth-child(1), table#ormTable-viewCartItems colgroup col:nth-child(1), table#ormTable-viewCartItems thead th:nth-child(2), table#ormTable-viewCartItems colgroup col:nth-child(2), table#ormTable-viewCartItems tbody td:nth-child(2) {
+        display: none
+    }
+
+    .timeSlot {
+        text-align: center !important
+    }
+
+    .sessonGroup td:nth-child(2), .sessonGroup td:nth-child(3) {
+        padding: 0
+    }
+
+    .tooltip label {
+        font-size: 13px
+    }
+}
+
+table#ormTable-viewCartItems thead th:nth-child(1), table#ormTable-viewCartItems tbody td:nth-child(1), table#ormTable-viewCartItems thead th:nth-child(4), table#ormTable-viewCartItems tbody td:nth-child(4), table#ormTable-viewCartItems thead th:nth-child(6), table#ormTable-viewCartItems tbody td:nth-child(6) {
+    text-align: center
+}
+
+/*----------- custom css --------*/
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+.btn {
+    border: 1px solid transparent !important;
+    padding: 6px 12px !important;
+    border-radius: 4px !important;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+.btn-custom {
+    border-radius: 10px !important;
+    background-color: #00b8f1 !important;
+    color: #fff !important;
+    font-size: 16px !important;
+    padding: 8px 15px !important;
+    border: 2px solid #00b8f1 !important;
+}
+
+.btn-primary {
+    color: #fff !important;
+    background-color: #337ab7 !important;
+    border-color: #2e6da4 !important;
+}
+
+.layout_field .btn {
+    font-size: 13px !important;
+    text-transform: capitalize !important;
+}
+
+.input-group .form-control:first-child {
+    border-bottom-right-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+}
+
+li.menu-item-has-children:hover > ul.dropdown-menu {
+    display: inline-block !important;
+}
+
+.btn-danger {
+    color: #fff !important;
+    background-color: #d9534f !important;
+    border-color: #d43f3a !important;
+}
+
+div.book_div div.book_heading {
+    font-weight: 700;
+    color: #01bafd;
+    margin-top: 10px !important;
+}
+
+div.book_div div.book_description {
+    text-align: center;
+    text-justify: inter-word;
+    padding: 10px 0;
+}
+
+div.book_div {
+    margin-bottom: 30px;
+    text-align: center;
+    margin: 0 1.8% 2.992em 0;
+}
+
+.layout_field a, .calcField {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+.addCartQty {
+    border: 1px solid #ccc !important;
+    border-top-left-radius: 4px !important;
+    border-bottom-left-radius: 4px !important;
+}
+
+.addCartQty:focus {
+    border: 1px solid #66afe9 !important;
+}
+
+#loader_image {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    display: none;
+    background: rgba(255, 255, 255, 0.5);
+    z-index: 9;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}
+
+#loader_image img {
+    position: absolute;
+    top: 50vh;
+    left: 50vw;
+    transform: translate(-10vw, -25vh);
+}
+
+#back-to-top .btn-primary {
+    border: 1px solid #01BAFD !important;
+}
+
+#back-to-top .btn {
+    background: transparent !important;
+    color: #01BAFD !important;
+    height: 40px;
+    width: 40px;
+    line-height: 1;
+    padding: 0 !important;
+    text-align: center;
+    opacity: 0.7;
+    filter: alpha(opacity=70);
+    -webkit-transition: 0.2s;
+    -o-transition: 0.2s;
+    transition: 0.2s;
+}
+
+input[type="text"], input[type="email"], textarea {
+    border: 1px solid #ccc !important;
+    border-radius: 4px !important;
+}
+
+.form-control {
+    border-right: 1px solid #ccc !important;
+}
+
+@media (min-width: 1200px) {
+    .container {
+        width: 1170px !important;
+    }
+}
+
+.layout_label img {
+    width: 50%;
+}
+
+/*------------- template css --------------*/
+input[type="text"], input[type="email"], textarea {
+    min-width: 50px !important;
+}
+.form-control:focus{
+    box-shadow: none !important;
+}
+
+.title-box {
+    background: #0070b2;
+    text-transform: capitalize;
+    font-weight: 500;
+    padding: 11px 15px !important;
+}
+
+.styled_enum_checkboxes_col label, .multiAssocCheckboxes label, .select-btn {
+    border-radius: 0 !important;
+    background: #eee !important;
+    border-color: #eee !important;
+    color: #333 !important;
+    padding: 15px 20px !important;
+}
+
+.styled_enum_checkboxes_col label.active, .multiAssocCheckboxes input[type="checkbox"]:checked + label, .styled_enum_checkboxes_col input[type="radio"]:checked + label, .select-btn.active {
+    background: #00b8f1 !important;
+    border-color: #00b8f1 !important;
+    color: white !important;
+}
+
+div.checkboxes div.venueHeading {
+    padding: 15px 14px;
+}
+
+.publication-wrapper,
+.cart-wrapper,
+.account-wrapper,
+.course-wrapper {
+    margin: 60px 0;
+}
+
+.pw-item {
+    margin-bottom: 40px;
+}
+
+.pw-item figure {
+    height: 24em;
+    overflow: hidden;
+    background: #f5f5f5;
+}
+
+.pw-item figure img {
+    width: 100%;
+    height: inherit;
+    transition: linear 0.5s;
+
+}
+.pw-item:hover figure img {
+    transform: scale(1.02);
+}
+
+.pwi-detail {
+    background: #eee;
+    padding: 25px 15px;
+    text-align: center;
+}
+
+.pwi-detail h6,
+.pwi-detail p {
+    color: #333;
+    font-size: 15px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    margin: 0;
+}
+
+.pwi-detail h6 {
+    margin-bottom: 10px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    transition: linear 0.3s;
+}
+.pw-item:hover .pwi-detail h6 {
+    color: #00b8f1;
+}
+.pw-item .pwi-detail h6:hover {
+    color: #0070b2;
+}
+
+.pwi-detail p {
+    font-weight: 700;
+}
+
+.pwi-price {
+    color: #0070b2 !important;
+    font-size: 20px !important;
+    margin: 5px 0 10px !important;
+    font-weight: 700;
+}
+
+.btn {
+    border-radius: 0 !important;
+    text-transform: capitalize !important;
+    padding: 8px 15px !important;
+}
+
+.btn-blue [class*='fa-'] {
+    margin-right: 10px;
+}
+
+.btn-blue:hover,
+.btn-blue:focus,.btn-primary:hover {
+    color: #fff !important;
+}
+
+.btn-primary:hover {
+    color: #fff !important;
+    background-color:#3a3a3a!important;
+}
+
+.btn-blue{
+    color:#fff;
+}
+
+.pw-description figure {
+    height: 30em;
+    overflow: hidden;
+    background: #fefefe;
+}
+
+.pw-description figure img {
+    width: 100%;
+    height: inherit;
+    object-fit: contain;
+
+}
+
+.pwd-cat {
+    background: #0070b2;
+    padding: 12px 25px;
+    color: #fff;
+    text-transform: capitalize;
+    display: inline-block;
+    margin-bottom: 25px;
+}
+
+.pwd-cat h4 {
+    margin: 0;
+    font-weight: 400;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+.pwd-info article {
+    margin-bottom: 15px;
+}
+
+.pwd-info h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+.pwd-info p {
+    font-size: 16px;
+    margin: 0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+.pwd-info .form-control {
+    min-height: 40px;
+    max-width: 80px;
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.pwd-tab {
+    margin-top: 30px;
+}
+
+.pwd-tab .nav-tabs {
+    border-color: #999 !important;;
+}
+
+.pwd-tab .nav-item {
+    margin: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+.pwd-tab .nav-item a {
+    color: #333 !important;
+    font-weight: 600 !important;
+    text-transform: capitalize !important;
+    padding: 10px 30px !important;
+    border-color: #999 !important;
+    background: #eee !important;
+    margin-bottom: -1px !important;
+    border-radius: 0 !important;
+    margin-right: -1px !important;
+}
+
+.pwd-tab .nav-item.active a {
+    border-bottom: 1px solid #fff !important;
+    background: #fff !important;
+}
+
+.pwd-tab .nav-item a:before {
+    content: '';
+    display: none;
+}
+
+.pwd-tab .tab-pane {
+    color: #333 !important;
+}
+
+.pwd-tab .tab-content {
+    padding: 30px 20px;
+    border-top: none !important;
+    border: 1px solid #999 !important;
+}
+
+.pwd-tab-desc > :not(:last-child) {
+    margin-bottom: 20px;
+}
+
+.pwd-tab-desc article h4 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    margin-bottom: 5px;
+}
+
+.pwd-tab-desc ol {
+    padding-left: 15px !important;
+}
+
+.pwd-tab-desc ul {
+    padding-left: 0;
+}
+
+.pwd-tab-desc ol li,
+.pwd-tab-desc ul li {
+    margin-bottom: 0 !important;
+}
+
+.msg-success {
+    color: #fff;
+    background: #dff0d8;
+    padding: 15px 25px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.msg-success p,
+.msg-success a {
+    color: #3c763d;
+    font-size: 14px;
+    margin-bottom: 0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+.msg-success a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.related-product {
+    margin-top: 60px;
+}
+
+.related-product h2 {
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.styled_enum_checkboxes_col label, .multiAssocCheckboxes label, .select-btn {
+    width: 100% !important;
+}
+
+.styled_enum_checkboxes_col {
+    width: 100% !important;
+}
+
+.cstm-tbl .tbl-heading {
+    background-color: #0070b2;
+    border-radius: 0;
+    font-weight: 500 !important;
+    padding: 16px 15px !important;
+    font-size: 16px;
+    color: white;
+    margin-top: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+.cstm-tbl .tbl-sub-heading {
+    font-size: 16px;
+    font-weight: 500;
+    text-align: left;
+    margin: 15px 0;
+    color: #0070b2;
+}
+
+.cstm-tbl table {
+    width: 100%;
+    margin-bottom: 30px;
+}
+.cstm-tbl thead th {
+
+    background: #0070b2;
+    color: #fff !important;
+    /*border: 1px solid #333 !important;*/
+    padding: 15px 10px !important;
+    text-transform: capitalize !important;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+.cstm-tbl thead th.product-name,
+.cstm-tbl tbody td.product-name {
+    text-align: left;
+}
+.cstm-tbl tbody td {
+    /*border: 1px solid #333 !important;*/
+    font-weight: 500 !important;
+}
+.cstm-tbl thead th,
+.cstm-tbl tbody td {
+    text-align: center;
+    border-top: 1px solid #333 !important;
+    border-right: 1px solid #333 !important;
+}
+.cstm-tbl tbody tr:last-child td {
+    border-bottom: 1px solid #333 !important;
+}
+.cstm-tbl tbody tr td:first-child {
+    border-left: 1px solid #333 !important;
+}
+.woocommerce a.remove {
+    display: inline-block !important;
+}
+.cstm-tbl td {
+    text-align: left;
+    vertical-align: middle !important;
+    padding: 12px 15px !important;
+}
+.cstm-tbl td.cstm-radio {
+    padding: 0 15px 0 !important;
+}
+.cstm-tbl tbody tr:nth-child(even) {
+    background: #eee !important;
+}
+.cstm-radio ul{
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+.cstm-radio ul li{
+    margin: 0 -15px 0 !important;
+    padding: 12px 15px 0 !important;
+}
+.cstm-radio ul li:not(:last-child){
+    border-bottom: 1px solid #333;
+}
+.cstm-radio input[type="radio"] + label {
+    width: calc(100% + 30px) !important;
+    max-width: calc(100% + 30px) !important;
+    margin-bottom: 0 !important;
+    margin: -12px -15px;
+    padding: 12px 15px;
+    font-weight: 500 !important;
+}
+.cstm-radio input[type="radio"] + label:hover {
+    cursor: pointer;
+}
+
+.cstm-radio input[type="radio"]:checked + label {
+    background: #00b8f1 !important;
+    border-color: #00b8f1 !important;
+    color: white !important;
+}
+
+.cstm-radio input[type="radio"] {
+    display: none !important;
+    visibility: hidden !important;
+}
+.product-img figure{
+    width: 80px;
+}
+.product-img figure img{
+    width: 100%;
+}
+.product-remove [class*="fa-"]{
+    color: #fff;
+    background: #ff4e4e;
+    padding: 4px;
+}
+.product-save {
+    text-align: right !important;
+}
+.checkout-detail,
+h3{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+.checkout-detail .form-control{
+    min-height: 40px;
+    color: #373737;
+    border-radius: 0 !important;
+    font-weight: 400 !important;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+.radio-payment{
+    border: 1px solid #333;
+    margin-bottom: 30px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+.rp-head{
+    padding: 8px 15px;
+    border-bottom: 1px solid #333;
+}
+.rp-head label{
+    font-weight: 400;
+    margin-left: 5px;
+}
+.rp-txt{
+    padding: 15px;
+}
+.rp-txt p{
+    margin-bottom: 0;
+    font-weight: 400;
+}
+.temp-form{
+    padding: 20px 15px;
+    border: 1px solid #333;
+    margin-bottom: 30px;
+    font-weight: 400;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+.temp-form .form-control{
+    min-height: 40px;
+    border-radius: 0 !important;
+    font-weight: 400;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+.class-list{
+    margin-bottom: 30px;
+}
+.cl-list{
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+.cl-list .cll-item p{
+    margin-bottom: 0;
+    font-weight: 400;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+.cl-list .cll-item .form-control{
+    width: auto !important;
+    min-height: 40px;
+    border-radius: 0 !important;
+    display: inline-block;
+    font-weight: 400;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+.cl-list li.cll-item:not(:last-child){
+    border-bottom: 1px solid #333;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+.cl-list li.cll-item .cstm-tbl{
+    margin-top: 20px;
+}
+.book-public{
+    margin-top: 30px;
+}
+.book-public h3{
+    margin-bottom: 15px;
+}
+.aw-title{
+    margin-bottom: 30px!important;
+    font-weight: 400!important;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+#shipping_method {
+    list-style: none;
+    padding-left: 0;
+}
+#addStudentModalAg .modal-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#addStudentModalAg .modal-header:before,
+#addStudentModalAg .modal-header:after{
+    display:none;
+}
+.modal-body.temp-form {
+    border: none !important;
+}
+.cll-item-quantity{
+    color: #fff;
+    background: #0070b2;
+    padding: 4px 16px;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 4px 0;
+}
+
+.woocommerce-form-coupon-toggle{
+    display: none!important;
+}
+
+.woocommerce{
+    margin-top: 10px;
+}
+
+.woocommerce form .form-row label {
+    font-size:13px !important;
+}
+
+.woocommerce-page.woocommerce-checkout #customer_details h3, .woocommerce.woocommerce-checkout #customer_details h3 {
+    font-size: 2.2rem !important;
+}
+
+p,h3,h2,h1,strong,li{
+    color: #333333;
+    line-height: 1.42857143;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:400;
+}
+p,li{
+    font-size:15px;
+}
+h3, .h3 {
+    font-size: 22px;
+    font-weight:600;
+    letter-spacing:0.2px;
+}
+
+
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight:400;
+    line-height: 1.42857143;
+    color: #333;
+}
+
+#order_review{
+    width :100% !important;
+}
